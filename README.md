@@ -178,7 +178,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Screenshot 2024-10-17 235519](https://github.com/user-attachments/assets/cf44fa51-6cbb-4cc6-8700-025520a376ce)
+![Screenshot 2024-11-10 232654](https://github.com/user-attachments/assets/68fa524f-7702-43a9-a77b-95aa4f35ae06)
+
 
 
 
